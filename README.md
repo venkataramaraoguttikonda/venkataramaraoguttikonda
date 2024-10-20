@@ -15,20 +15,25 @@ I’m a passionate data scientist and machine learning enthusiast dedicated to s
 - Statistical Analysis 📊
 - Machine Learning Algorithms 🤖
 - Deep Learning Architectures 🧠
+- Computer Vision 💻
+- Natural Language Processing 🌐
 
 ### Languages:
 - Python 🐍
-- MATLAB 📊
-- R 📈
+
 
 ### Libraries and Frameworks:
-- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, XGBoost
-- R: ggplot2, caret, randomForest
-- MATLAB: Statistics and Machine Learning Toolbox
+- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Spacy, NLTK, OpenCV
 
 ## 🚀 Projects
-
-
+### Computer Vision an GenAI
+- Machine Vision Based Foreign Object detection on runway using Linescan camera
+- Image Super-Resolution using Deep Generative model
+### Natural Language Processing
+- Amazon Fashion Discovery Engine
+- Consumer Complaints Classification
+- Credit Card Fraud Detection
+- Speech Emotion Recognition
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvramarao/)
